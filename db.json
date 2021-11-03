@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "junin@mail.com",
+      "password": "$2a$10$WS/WiK/AIuIOHZdTcfxOzOPcD6khHZ31Iwj6KVr.WqlsXqrl9HovS",
+      "name": "Junin",
+      "age": 22,
+      "id": 2
+    },
+    {
+      "email": "junin2@mail.com",
+      "password": "$2a$10$eMnD9CgAzmXzrbpE.KsVZeumrX4IKTEanyH14v6wmyRM2oGlDPl7.",
+      "name": "Junin2",
+      "age": 22,
+      "id": 3
+    },
+    {
+      "email": "johndoe@mail.com",
+      "password": "$2a$10$2LWrstI8khefQUy6jl/EqeuUto/r62xqSmxaryaEBmPLHmHfXX9ji",
+      "name": "John Doe",
+      "age": "22",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": "14.00",
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
+    },
+    {
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": "16.00",
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
+    },
+    {
+      "name": "Big-Kenzie",
+      "category": "Sanduíches",
+      "price": "18.00",
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
+    },
+    {
+      "name": "Fanta Guaraná",
+      "category": "Bebida",
+      "price": "5.00",
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
+    },
+    {
+      "name": "Coca-cola",
+      "category": "Bebidas",
+      "price": "4.99",
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
+    },
+    {
+      "name": "Fanta Laranja",
+      "category": "Bebidas",
+      "price": "4.99",
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
+    }
+  ]
+}
