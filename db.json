@@ -46,13 +46,13 @@
       "name": "Big-Kenzie",
       "category": "Sanduíches",
       "price": "18.00",
-      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
     },
     {
       "name": "Fanta Guaraná",
-      "category": "Bebida",
+      "category": "Bebidas",
       "price": "5.00",
-      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
     },
     {
       "name": "Coca-cola",
@@ -61,10 +61,22 @@
       "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
     },
     {
-      "name": "Fanta Laranja",
-      "category": "Bebidas",
+      "name": "Milkshake Ovomaltine",
+      "category": "Sobremesas",
       "price": "4.99",
       "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
+    },
+    {
+      "name": "Pudim",
+      "category": "Sobremesas",
+      "price": "7.99",
+      "img": "https://i.ibb.co/Z2Yhbzy/pudim.png"
+    },
+    {
+      "name": "Brownie",
+      "category": "Sobremesas",
+      "price": "2.99",
+      "img": "https://i.ibb.co/nsSQJWK/brownie.png"
     }
   ]
 }
